@@ -2,7 +2,6 @@ import datetime
 
 from django.test import TestCase
 from django.utils import timezone
-from django.test import TestCase
 from django.core.urlresolvers import reverse
 
 from .models import Question
